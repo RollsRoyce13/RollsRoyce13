@@ -45,7 +45,7 @@ Team player, mentor, excellent communicator, proactive problem-solver
 | Project | Description | Links |
 |---------|--------------|---------------|
 | [Unity UI System Demo](#) | Interface with Gamepad and Keyboard Support | [Link](https://github.com/RollsRoyce13/Unity-Input-UI)
-| [VR Behind the Silence](#) | Short description of the project | [Link](https://github.com/RollsRoyce13/VR-Behind-the-Silence) 
+| [VR Behind the Silence](#) | Immersive horror-inspired game | [Link](https://github.com/RollsRoyce13/VR-Behind-the-Silence) 
 | [Grand Theft Drifting](#) | 🎮 3D drift racing game with Photon PUN | [Link](https://github.com/RollsRoyce13/Unity-Grand-Theft-Drifting)
 
 ---
