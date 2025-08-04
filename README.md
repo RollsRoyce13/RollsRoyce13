@@ -48,6 +48,7 @@ Team player, mentor, excellent communicator, proactive problem-solver
 | **VR Behind the Silence** | Immersive horror-inspired game | [Link](https://github.com/RollsRoyce13/VR-Behind-the-Silence) 
 | **VR Head Punch** | A fun and juicy prototype where your goal is punch the head | [Link](https://github.com/RollsRoyce13/Unity-VR-Head-Punch) 
 | **Grand Theft Drifting** | 🎮 3D drift racing game with Photon PUN | [Link](https://github.com/RollsRoyce13/Unity-Grand-Theft-Drifting)
+| **ASP.NET Diary App** | A simple diary web application built with ASP.NET Core (.NET 9) | [Link](https://github.com/RollsRoyce13/Diary)
 
 ---
 
