@@ -49,6 +49,7 @@ Team player, mentor, excellent communicator, proactive problem-solver
 | **VR Head Punch** | A fun and juicy prototype where your goal is punch the head | [Link](https://github.com/RollsRoyce13/Unity-VR-Head-Punch) 
 | **Grand Theft Drifting** | 🎮 3D drift racing game with Photon PUN | [Link](https://github.com/RollsRoyce13/Unity-Grand-Theft-Drifting)
 | **ASP.NET Diary App** | A simple diary web application built with ASP.NET Core (.NET 9) | [Link](https://github.com/RollsRoyce13/Diary)
+| **ASP.NET Diary API** | A simple ASP.NET Core Web API for managing diary entries | [Link](https://github.com/RollsRoyce13/WebDiaryAPI)
 
 ---
 
