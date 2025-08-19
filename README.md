@@ -50,6 +50,7 @@ Team player, mentor, excellent communicator, proactive problem-solver
 | **Grand Theft Drifting** | 🎮 3D drift racing game with Photon PUN | [Link](https://github.com/RollsRoyce13/Unity-Grand-Theft-Drifting)
 | **ASP.NET Diary App** | A simple diary web application built with ASP.NET Core (.NET 9) | [Link](https://github.com/RollsRoyce13/Diary)
 | **ASP.NET Diary API** | A simple ASP.NET Core Web API for managing diary entries | [Link](https://github.com/RollsRoyce13/WebDiaryAPI)
+| **ASP.NET DevSpot** | DevSpot is a modern job posting web application built with ASP.NET Core Razor Pages | [Link](https://github.com/RollsRoyce13/DevSpot)
 
 ---
 
