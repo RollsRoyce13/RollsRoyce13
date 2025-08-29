@@ -2,41 +2,44 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-🎮 **Passionate and results-driven Unity Developer** with **3.5+ years** of hands-on experience developing **70+ mobile and VR games** across genres like Puzzle, Match-3, Runners, Platformers, Sports Simulators, Racing & Drifting, Clickers, and Card Games.
+💻 **Software Developer** with 3+ years of hands-on experience in **C# development**, delivering **70+ mobile and VR applications** in Unity and recently expanding into **.NET application and backend development**.  
 
-🛠️ Skilled in designing **gameplay mechanics**, **UI/UX logic**, and integrating **audio** and **input systems** (Joystick, SafeArea checks). Experienced in cross-platform development for **iOS**, **Android**, and **Meta Quest**. Strong focus on **clean architecture**, **reusable code**, and **performance optimization**.
+🛠️ Skilled in building **scalable architectures**, writing **clean, maintainable code**, and implementing **UI/UX logic** across cross-platform solutions for **iOS**, **Android**, and **Meta Quest**.  
 
-✨ Eager to build **immersive**, **high-quality experiences** in **AR/VR** and **mobile gaming**.
+📚 Recently completed training in **ASP.NET Core** and **WPF**, and developed several **.NET pet projects** including **REST APIs**, **Blazor apps**, and **WPF desktop applications**.  
+
+✨ Passionate about continuous learning, modern software practices, and creating high-quality solutions in both **.NET** and **Unity**.  
 
 ---
 
-## 🧩 Technical Skills
+## 🧩 Technical Skills  
 
-**Languages & Tools:**  
-C#, Unity, Git, Jira, Zendesk
+**.NET Development:**  
+ASP.NET Core, MVC, Blazor, Razor Pages, WPF, XAML, Entity Framework, SQL, LINQ, REST API, CRUD, Swagger, Dependency Injection, Unit Testing (xUnit, NUnit), jQuery, AJAX  
 
-**App Development:**  
-JSON, Photon PUN, WebView, Firebase SDK, IAP, IronSource, Unity Ads, Cinemachine, AI Navigation, OpenXR
+**Programming & Tools:**  
+C#, Git, GitHub, Jira, JSON  
 
-**Animations:**  
-Unity Animation, Spine Animation, DoTween
+**Unity Development:**  
+Photon PUN, WebView, Firebase SDK, IAP, IronSource, Unity Ads, Cinemachine, Shaders, AI Navigation, OpenXR, Spine Animation, DoTween  
 
-**Architecture:**  
-Zenject, Addressables, Clean Code, Design Patterns
+**Architecture & Patterns:**  
+Clean Code, SOLID, Design Patterns, Zenject, Addressables  
 
 **Testing & DevOps:**  
-NUnit, CI/CD, GitHub Actions
+CI/CD (GitHub Actions), NUnit, xUnit  
 
 **VR/AR:**  
-Unity AR/VR Pathways
+Unity AR/VR Pathways, OpenXR  
 
 **Design Tools:**  
-Photoshop, InDesign
+Photoshop, InDesign  
 
 **Soft Skills:**  
-Team player, mentor, excellent communicator, proactive problem-solver
+Team player, mentor, excellent communicator, proactive problem-solver  
+
 
 ---
 
